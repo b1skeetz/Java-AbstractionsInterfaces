@@ -1,3 +1,5 @@
+package Task2;
+
 public abstract class Account {
 
     public abstract double getBalance();
